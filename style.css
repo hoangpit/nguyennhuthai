@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+#menu{
+     background:#0B0001
+	
+}
+.button{
+	background:#0B0001 ;
+	text-align: center;
+	text-decoration: none;
+	font-size: 25px;
+	padding: 20px 35px;
+	color: orange;
+	display:inline-block;
+	margin: 4px 2px;
+	cursor: pointer;
+	text-transform: uppercase;
+	border: none;
+		
+	
+}
+.button1  {
+	 background-color:#0B0001 ; 
+  color:peru 
+  	
+	
+}
+.button1:hover{
+	background-color:skyblue;
+	colo:white;
+	font-size: 18px
+		
+}
